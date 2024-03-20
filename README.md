@@ -69,5 +69,5 @@ This process is the best I can get with the current flipper firmware.
 | 8 | 4000 | 4096 | ~5 sec |
 
 # Thanks
-[@tobiabocchi](https://github.com/tobiabocchi/flipperzero-bruteforce#optimization) for the updated code and great ideas! check his codes for more protocols and explanation for the recent optimization
+
 
